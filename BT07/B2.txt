@@ -1,0 +1,2 @@
+Nhung lenh gan gt i = 5 la
+*p=5;
